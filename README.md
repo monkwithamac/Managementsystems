@@ -1,2 +1,0 @@
-# Managementsystems
-Medical management system
